@@ -2,5 +2,4 @@
 
 ## I'm a:
 - BCS student @ Vrije Amsterdam
-- IT intern @ Catawiki
-- Future self made gazillionaire
+- Junior IT Specialist @ Catawiki
